@@ -4,13 +4,17 @@
 
 ---
 
+A **free plan is coming in July 2026**. Follow our updates for the latest details at [multilogin.com/pricing/](https://multilogin.com/pricing/).
+
 Multilogin is an all-in-one platform for social media managers and creators who run multiple accounts from one dashboard.
 
 Each mobile account runs in its own Android cloud phone. Each web account runs in its own browser profile. Upload content, automate posts and engagements — all from one place, no physical devices, no separate tools.
 
-Whether you manage five accounts or five hundred, Multilogin keeps it simple and organized.
+Whether you manage five profiles or five hundred, Multilogin keeps it simple and organized.
 
-> 💡 Full 2026 Multilogin overview and feature breakdown: [github.com/multilogin-marketing](https://github.com/multilogin-marketing)
+> 💡 Full 2026 Multilogin overview and feature breakdown: [Multilogin Review 2026](https://github.com/multilogin-marketing)
+
+> 💡 See all current Multilogin plans and pricing: [Multilogin Pricing 2026](https://github.com/multilogin-marketing/multilogin-pricing)
 
 ---
 
